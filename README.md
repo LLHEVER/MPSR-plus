@@ -1,2 +1,2 @@
 # MPSR-plus
-improve the performance of the former MPSR
+to improve the performance of the former MPSR
